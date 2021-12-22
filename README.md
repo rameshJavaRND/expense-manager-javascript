@@ -1,0 +1,4 @@
+# expense-manager-javascript
+This is a simple expense manager application. In this you can add the type of payment, friends involved in the expense, date, currency type and the amount. ·         There is an option to add a friend by clicking on the plus button on the top right. ·         All the details of the expenses are maintained in the below table. The expenses should always be in descending order of date. The expenses should be filterable according to individual name selected. All the expense amounts in the table should be in only one currency. Validate the form using JS only. 
+There is an option to add a friend by clicking on the plus button on the top right.
+·         All the details of the expenses are maintained in the below table. The expenses should always be in descending order of date. The expenses should be filterable according to individual name selected. All the expense amounts in the table should be in only one currency.
